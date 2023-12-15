@@ -3,7 +3,11 @@ import unicodedata
 from gerador_certificado import GeradorCertificado
 
 
-# Dicionário com título da palestra e a quantidade de horas
+# ----------------- Dicionário com título da atividade e a quantidade de horas 
+# ----------------- Editar conforme as atividades requeridas
+# ----------------- É necessário remover as vírgulas dos nomes das atividades nos arquivos .csv 
+# ----------------- O nome da atividade aqui deve ser idêntico ao nome da atividade nos arquivos .csv 
+
 palestras = {
     # Segunda
     'Abertura SECCOM': 1,
