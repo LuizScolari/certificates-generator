@@ -1,6 +1,6 @@
 # Gerador de Certificados SECCOM
 
-Este repositório contém um programa em Python para gerar e enviar certificados de participação para eventos, como a SECCOM (Semana da Computação). O programa lê dados de arquivos CSV, gera um certificado no formato PNG e o envia por e-mail aos participantes.
+Este repositório contém um programa em Python para gerar e enviar certificados de participação para eventos, como a SECCOM (Semana Acadêmica da Computação). O programa lê dados de arquivos CSV, gera um certificado no formato PNG e o envia por e-mail aos participantes.
 
 ## Pré-requisitos
 Para utilizar este programa, você precisa ter o Python instalado em sua máquina. Além disso, são necessárias algumas bibliotecas específicas, listadas no arquivo `requirements.txt`.
