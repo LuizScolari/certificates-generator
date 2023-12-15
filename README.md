@@ -36,8 +36,11 @@ Arquivos `.csv`: Devem incluir os dados dos formulários de inscrição e as lis
 
 2. Configuração do email:
     * Edite o arquivo config.py para incluir a senha do seu e-mail (senha de aplicativo do Gmail).
+  
+3. Ajuste o código para suas necessidades:
+   * Edite o arquivo main.py e coloque as palestras/atividades específicas do evento
 
-3. Execução:
+5. Execução:
     * Execute o script main.py para processar os dados e enviar os certificados:
 
     ```sh
