@@ -1,0 +1,1 @@
+pass_gmail = ... # ------------- COLOQUE SUA SENHA DE APLICATIVO DO GMAIL-----------------
