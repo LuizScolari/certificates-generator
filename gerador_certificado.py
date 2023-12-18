@@ -4,7 +4,6 @@ from config import pass_gmail
 import os
 
 class GeradorCertificado:
-
     @classmethod
     def enviar_email_com_certificado(cls, nome, cpf, horas, email): 
             
@@ -13,7 +12,6 @@ class GeradorCertificado:
 
             # Enviar email personalizado
             cls.enviar_email(nome, email, imagem_certificado)
-
 
 
     @staticmethod
@@ -33,9 +31,8 @@ class GeradorCertificado:
         draw.text((310, 710), texto, font=fonte, fill=(0, 0, 0), align='center')
 
         imagem_certificado = f'{nome}_Certificado.png'
-        imagem.save(imagem_certificado) # usar para testes
+        imagem.save(imagem_certificado)
         return imagem_certificado
-
 
 
     @staticmethod
@@ -55,5 +52,5 @@ class GeradorCertificado:
         )
 
         print(f'Email enviado para {email} com sucesso!')
-        os.remove(imagem_certificado)
+        os.remove(imagem_certificado) # remove a imagem do diretório após enviar o email
         print(f"Certificado '{imagem_certificado}' excluído com sucesso.")

@@ -59,7 +59,6 @@ def encontrar_strings(string_grande, lista_strings_menores):
     return strings_encontradas
 
 
-
 def get_validos():
     validos = {}
     with open('info.csv', 'r') as arquivo:
@@ -82,11 +81,10 @@ def get_validos():
                     'horas': 0
                 }
             
-        
     return validos
 
-validos = get_validos()
 
+validos = get_validos()
 
 
 for dia in ['segunda', 'terca', 'quarta', 'quinta', 'sexta']:
@@ -105,7 +103,6 @@ for dia in ['segunda', 'terca', 'quarta', 'quinta', 'sexta']:
                 validos[matricula]['palestras'] += encontrar_strings(string_grande, lista_strings_menores)
     
 
-
 chaves_a_remover = []
 
 for participante in validos:
@@ -118,7 +115,6 @@ for participante in validos:
 
     if validos[participante]['horas'] == 0:
         chaves_a_remover.append(participante)
-
 
 
 for ausente in chaves_a_remover:
