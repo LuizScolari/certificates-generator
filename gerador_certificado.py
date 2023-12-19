@@ -17,29 +17,27 @@ class GeradorCertificado:
     @staticmethod
     def criar_certificado(nome, cpf, horas):
         # Abrir a imagem de modelo
-        imagem = Image.open('certificado.png')
+        imagem = Image.open('assets/certificado.png')
         
         texto1 = f'''Certificamos que {nome}, portador(a) do CPF {cpf},'''
         texto2 = f'''participou da SECCOM 2023 entre os dias 6 de novembro a 10 de novembro,'''
         texto3 = f'''totalizando {horas} horas de atividades.'''        
         
         draw = ImageDraw.Draw(imagem)
-        fonte = ImageFont.truetype('arial.ttf', 35)
+        fonte = ImageFont.truetype('assets/arial.ttf', 35)
 
-        # Centralizando o textos
+        # Centralizando os textos horizontalmente
         largura_texto1, _ = draw.textsize(texto1, font=fonte)
         largura_imagem, _ = imagem.size
         ponto_inicio_texto1 = (largura_imagem - largura_texto1) / 2
 
-        # Centralizando o texto2
         largura_texto2, _ = draw.textsize(texto2, font=fonte)
         ponto_inicio_texto2 = (largura_imagem - largura_texto2) / 2
         
-        # Centralizando o texto3
         largura_texto3, _ = draw.textsize(texto3, font=fonte)
         ponto_inicio_texto3 = (largura_imagem - largura_texto3) / 2
 
-        # Definindo a cor da fonte como preto (0, 0, 0) e a posição dos textos 
+        # Definindo a cor da fonte como preto (0, 0, 0) e a altura dos textos 
         draw.text((ponto_inicio_texto1, 710), texto1, font=fonte, fill=(0, 0, 0), align='center')
         draw.text((ponto_inicio_texto2, 750), texto2, font=fonte, fill=(0, 0, 0), align='center')
         draw.text((ponto_inicio_texto3, 790), texto3, font=fonte, fill=(0, 0, 0), align='center')
