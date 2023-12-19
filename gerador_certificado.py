@@ -1,17 +1,25 @@
 from PIL import Image, ImageDraw, ImageFont
 import yagmail
-from config import pass_gmail
+from config import pass_gmail, user_gmail
 import os
 
 class GeradorCertificado:
     @classmethod
     def enviar_email_com_certificado(cls, nome, cpf, horas, email): 
             
+            cpf_formatado = cls.formatar_cpf(cpf)
             # Gerar um certificado com o nome, cpf e horas
-            imagem_certificado = cls.criar_certificado(nome, cpf, horas)
+            imagem_certificado = cls.criar_certificado(nome, cpf_formatado, horas)
 
             # Enviar email personalizado
             cls.enviar_email(nome, email, imagem_certificado)
+
+
+    def formatar_cpf(cpf):
+        cpf = ''.join([x if x.isdigit() else '' for x in cpf])
+        cpf = cpf.zfill(11)
+        return f"{cpf[:3]}.{cpf[3:6]}.{cpf[6:9]}-{cpf[9:]}"
+        
 
 
     @staticmethod
@@ -50,7 +58,7 @@ class GeradorCertificado:
     @staticmethod
     def enviar_email(nome, email, imagem_certificado):
         # Inicializar o Yagmail SMTP
-        usuario = yagmail.SMTP(user='seu_user@gmail.com', password=pass_gmail) # Insira o email remetente 
+        usuario = yagmail.SMTP(user=user_gmail, password=pass_gmail) 
         
         assunto = 'Certificado de Participação - SECCOM'
         conteudo = f'Olá {nome},\n\nAqui está o seu certificado de participação da SECCOM 2023. \n\nAtenciosamente,\nOrganização da SECCOM'
