@@ -34,9 +34,8 @@ No diretório `assets` há um exemplo de certificado para testes, substitua-o pe
     * Certifique-se de que o template do certificado (certificado.png) esteja no diretório `assets`.
 
 2. Configuração do email:
-    * Edite o arquivo `config.py` para incluir a senha do seu e-mail (senha de aplicativo do Gmail).
-    * Edite o arquivo `gerador_certificado.py` para colocar o seu user (remetente) do gmail.
-  
+    * Edite o arquivo `config.py` para incluir a senha do seu e-mail (senha de aplicativo do Gmail) e o user.
+    
 3. Ajuste o código para suas necessidades:
    * No arquivo `main.py`, coloque as palestras/atividades específicas do evento
    * No arquivo `gerador_certificado.py`, ajuste a altura dos textos conforme o template usado.
