@@ -22,29 +22,29 @@ gerador de certificados.
 
 `config.py`: Contém configurações, como a senha do e-mail remetente (necessário ajustar com sua própria senha).
 
-`certificado.png`: Template de imagem para o certificado (deve estar no diretório do projeto).
-
 Arquivos `.csv`: Devem incluir os dados dos formulários de inscrição e as listas de presença para cada dia do evento.
+
+No diretório `assets` há um exemplo de certificado para testes, substitua-o pelo template real do certificado.
 
 
 
 ## Uso
 1. Preparação dos dados:
     * Garanta que todos os arquivos CSV necessários estejam no diretório do projeto. Isso inclui o arquivo de inscrição (info.csv) e os arquivos de presença para cada dia (segunda.csv, terca.csv, etc.).
-
-    * Certifique-se de que o template do certificado (certificado.png) também esteja no diretório.
+    * Certifique-se de que o template do certificado (certificado.png) esteja no diretório `assets`.
 
 2. Configuração do email:
-    * Edite o arquivo config.py para incluir a senha do seu e-mail (senha de aplicativo do Gmail).
+    * Edite o arquivo `config.py` para incluir a senha do seu e-mail (senha de aplicativo do Gmail).
+    * Edite o arquivo `gerador_certificado.py` para colocar o seu user (remetente) do gmail.
   
 3. Ajuste o código para suas necessidades:
-   * Edite o arquivo main.py e coloque as palestras/atividades específicas do evento
+   * No arquivo `main.py`, coloque as palestras/atividades específicas do evento
+   * No arquivo `gerador_certificado.py`, ajuste a altura dos textos conforme o template usado.
 
 5. Execução:
-    * Execute o script main.py para processar os dados e enviar os certificados:
+    * Execute o script `main.py` para processar os dados e enviar os certificados:
 
     ```sh
     python3 main.py
 
     ```
-
