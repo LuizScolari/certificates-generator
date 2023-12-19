@@ -16,11 +16,9 @@ class GeradorCertificado:
 
 
     def formatar_cpf(cpf):
-        cpf = ''.join([x if x.isdigit() else '' for x in cpf])
-        cpf = cpf.zfill(11)
+        cpf = ''.join(x for x in cpf if x.isdigit()).zfill(11)
         return f"{cpf[:3]}.{cpf[3:6]}.{cpf[6:9]}-{cpf[9:]}"
         
-
 
     @staticmethod
     def criar_certificado(nome, cpf, horas):
