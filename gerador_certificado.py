@@ -15,6 +15,7 @@ class GeradorCertificado:
             cls.enviar_email(nome, email, imagem_certificado)
 
 
+    @staticmethod
     def formatar_cpf(cpf):
         cpf = ''.join(x for x in cpf if x.isdigit()).zfill(11)
         return f"{cpf[:3]}.{cpf[3:6]}.{cpf[6:9]}-{cpf[9:]}"
