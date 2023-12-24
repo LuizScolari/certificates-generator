@@ -1,6 +1,6 @@
 import csv
 import unicodedata
-from gerador_certificado import GeradorCertificado
+import gerador_certificado
 
 
 # ----------------- Dicionário com título da atividade e a quantidade de horas 
@@ -123,4 +123,4 @@ for ausente in chaves_a_remover:
 
 # Classe que gera e envia os certificados por email
 for participante in validos:
-    GeradorCertificado.enviar_email_com_certificado(validos[participante]['nome'], validos[participante]['cpf'], validos[participante]['horas'], validos[participante]['email'])
+    gerador_certificado.enviar_email_com_certificado(validos[participante]['nome'], validos[participante]['cpf'], validos[participante]['horas'], validos[participante]['email'])
