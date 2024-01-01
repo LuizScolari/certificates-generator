@@ -15,7 +15,7 @@ Para instalar as bibliotecas necessárias, execute o seguinte comando no termina
 
 
 ## Estrutura dos Arquivos
-`gerador_certificado.py`: Script principal que contém a lógica para a geração e envio dos certificados.
+`gerador_certificado.py`: Módulo principal que contém a lógica para a geração e envio dos certificados.
 
 `main.py`: Script para processar os dados dos participantes e chamar o 
 gerador de certificados.
