@@ -19,7 +19,7 @@ def criar_certificado(nome, cpf, horas):
     imagem = Image.open('assets/certificado.png')
 
     texto1 = f'''Certificamos que {nome}, portador(a) do CPF {cpf},'''
-    texto2 = f'''participou da SECCOM 2023 entre os dias 6 de novembro a 10 de novembro,'''
+    texto2 = f'''participou da SECCOM 2024 entre os dias 21 de novembro a 25 de novembro,'''
     texto3 = f'''totalizando {horas} horas de atividades.'''
 
     draw = ImageDraw.Draw(imagem)

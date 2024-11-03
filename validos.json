@@ -1,0 +1,19 @@
+{
+    "23100480": {
+        "email": "luizrpscolari@gmail.com",
+        "nome": "Luiz Roberto Scolari",
+        "matricula": "23100480",
+        "cpf": "03766283162",
+        "palestras": [
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 25.5
+    }
+}

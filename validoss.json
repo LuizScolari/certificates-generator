@@ -1,0 +1,2340 @@
+{
+    "23100480": {
+        "email": "Lucas.lsv.lad@gmail.com",
+        "nome": "Lucas de Souza Vieira ",
+        "matricula": "23100480",
+        "cpf": "80056540906",
+        "palestras": [
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas":30 
+    },
+    "23104231": {
+        "email": "jonatanhartamann@gmail.com",
+        "nome": "Jonatan Felipe Hartmann",
+        "matricula": "23104231",
+        "cpf": "03864808006",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 25
+    },
+    "23100460": {
+        "email": "victoria.rvv@outlook.com",
+        "nome": "Vict\u00f3ria Rodrigues Veloso ",
+        "matricula": "23100460",
+        "cpf": "13092559975",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 20
+    },
+    "23103753": {
+        "email": "pedrohenriquebzimmermann@gmail.com",
+        "nome": "Pedro Henrique Broering Zimmermann ",
+        "matricula": "23103753",
+        "cpf": "12099483973",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "24203051": {
+        "email": "rafaelmp142005@gmail.com ",
+        "nome": "Rafael Marian Pacheco ",
+        "matricula": "24203051",
+        "cpf": "13804930999",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 8
+    },
+    "22200363": {
+        "email": "gugirotto34@gmail.com",
+        "nome": "Gustavo Girotto",
+        "matricula": "22200363",
+        "cpf": "11377310957",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 9
+    },
+    "19102917": {
+        "email": "brunopamplonahuebes@gmail.com",
+        "nome": "Bruno Pamplona Huebes",
+        "matricula": "19102917",
+        "cpf": "09379808976",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 35.5
+    },
+    "17203215": {
+        "email": "ravisousagarcindo@gmail.com",
+        "nome": "Ravi de Sousa Garcindo",
+        "matricula": "17203215",
+        "cpf": "08923895911",
+        "palestras": [
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)"
+        ],
+        "horas": 1
+    },
+    "23203332": {
+        "email": "klaus2027@gmail.com",
+        "nome": "Klaus Schneider",
+        "matricula": "23203332",
+        "cpf": "04004439027",
+        "palestras": [
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 4
+    },
+    "23102766": {
+        "email": "pehqge@gmail.com",
+        "nome": "Pedro Henrique Gimenez",
+        "matricula": "23102766",
+        "cpf": "45601638802",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Cerim\u00f4nia de Abertura",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 31.5
+    },
+    "24205519": {
+        "email": "jullyaestelita1958@gmail.com",
+        "nome": "J\u00fallya Estelita da Concei\u00e7\u00e3o ",
+        "matricula": "24205519",
+        "cpf": "10989569900",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 21.5
+    },
+    "23250590": {
+        "email": "anaclaraguimaraes1@gmail.com",
+        "nome": "Ana Clara ",
+        "matricula": "23250590",
+        "cpf": "12537123956",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "22200374": {
+        "email": "pedro.c.casotti@gmail.com",
+        "nome": "Pedro Costa Casotti",
+        "matricula": "22200374",
+        "cpf": "36387161800",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)"
+        ],
+        "horas": 15
+    },
+    "24204116": {
+        "email": "franciscoalexandrefernandesofc@gmail.com",
+        "nome": "Francisco Alexandre Fernandes Batalha",
+        "matricula": "24204116",
+        "cpf": "42144661871",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 3.5
+    },
+    "22100626": {
+        "email": "jessicars241@gmail.com",
+        "nome": "Jessica Regina dos Santos",
+        "matricula": "22100626",
+        "cpf": "07740725986",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 11
+    },
+    "21202109": {
+        "email": "mllernanda@gmail.com",
+        "nome": "Fernanda Larissa M\u00fcller ",
+        "matricula": "21202109",
+        "cpf": "03033078036",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 7
+    },
+    "24202525": {
+        "email": "calladohf@gmail.com",
+        "nome": "Helena Callado",
+        "matricula": "24202525",
+        "cpf": "08189993909",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 5.5
+    },
+    "21203363": {
+        "email": "seccom@matheusantonio.com",
+        "nome": "Matheus Antonio de Souza",
+        "matricula": "21203363",
+        "cpf": "12931920908",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 16
+    },
+    "24105031": {
+        "email": "zainabhanadyi@gmail.com",
+        "nome": "Zainab Hanady Ibrahim Olivella",
+        "matricula": "24105031",
+        "cpf": "02606670051",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 7
+    },
+    "23203910": {
+        "email": "vitorpedrosasantos@gmail.com",
+        "nome": "Vitor Santos",
+        "matricula": "23203910",
+        "cpf": "44209500801",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)"
+        ],
+        "horas": 1
+    },
+    "24100577": {
+        "email": "fragacostabe@gmail.com",
+        "nome": "Bernardo da Costa Fraga",
+        "matricula": "24100577",
+        "cpf": "02859643052",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 17.0
+    },
+    "24100604": {
+        "email": "arthurmarraui@gmail.com",
+        "nome": "Arthur Marraui",
+        "matricula": "24100604",
+        "cpf": "15843717909",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 17.5
+    },
+    "21105479": {
+        "email": "gabrielturattia@gmail.com",
+        "nome": "Gabriel Turatti Andrade",
+        "matricula": "21105479",
+        "cpf": "05552331036",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 11
+    },
+    "24208649": {
+        "email": "matheusssebold@gmail.com",
+        "nome": "Matheus da Silva Sebold",
+        "matricula": "24208649",
+        "cpf": "13295968977",
+        "palestras": [
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 7.5
+    },
+    "23103131": {
+        "email": "mariinabenvenuti@outlook.com",
+        "nome": "Marina Benvenuti Cardeal",
+        "matricula": "23103131",
+        "cpf": "10968316948",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)"
+        ],
+        "horas": 10
+    },
+    "24205124": {
+        "email": "rogeriobatistijunior@gmail.com",
+        "nome": "Rogerio Batisti Junior",
+        "matricula": "24205124",
+        "cpf": "12169063943",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 7
+    },
+    "24200394": {
+        "email": "nicolaskjunges@gmail.com",
+        "nome": "Nicolas Kotelak Junges ",
+        "matricula": "24200394",
+        "cpf": "07583042933",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 9
+    },
+    "24100573": {
+        "email": "davirobergemachado@gmail.com",
+        "nome": "Davi Roberge Machado",
+        "matricula": "24100573",
+        "cpf": "13803015995",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 20
+    },
+    "24100589": {
+        "email": "andrefilipmartins@gmail.com",
+        "nome": "Andr\u00e9 Filipe Martins",
+        "matricula": "24100589",
+        "cpf": "13182036947",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 20
+    },
+    "23200349": {
+        "email": "sofiabschmitz@gmail.com",
+        "nome": "Sofia Bianchi Schmitz",
+        "matricula": "23200349",
+        "cpf": "09883783965",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)"
+        ],
+        "horas": 3
+    },
+    "22200359": {
+        "email": "felipe.elton.ps@gmail.com",
+        "nome": "Felipe Elton Pazini Savi",
+        "matricula": "22200359",
+        "cpf": "12256969924",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "24200378": {
+        "email": "yasminkdaf@gmail.com",
+        "nome": "Yasmin Krug de Albuquerque Ferreira",
+        "matricula": "24200378",
+        "cpf": "13215211971",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 18.5
+    },
+    "23102761": {
+        "email": "gustavo.vonn@gmail.com",
+        "nome": "Gustavo Rodrigues Alves D'Angelo",
+        "matricula": "23102761",
+        "cpf": "15374135627",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)"
+        ],
+        "horas": 4
+    },
+    "24202921": {
+        "email": "vitorss13@gmail.com",
+        "nome": "Vitor Schuelter da Silva",
+        "matricula": "24202921",
+        "cpf": "08890256907",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 5.0
+    },
+    "24100601": {
+        "email": "fefebertotti@gmail.com",
+        "nome": "Fernanda Bertotti Guedes",
+        "matricula": "24100601",
+        "cpf": "05485610102",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "24100605": {
+        "email": "teodoro.pedro@outlook.com",
+        "nome": "Pedro Teodoro Becker da Silva",
+        "matricula": "24100605",
+        "cpf": "13215066947",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 10
+    },
+    "24100596": {
+        "email": "arthurclasendemelo@gmail.com",
+        "nome": "Arthur Clasen de Melo",
+        "matricula": "24100596",
+        "cpf": "13160410935",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)"
+        ],
+        "horas": 11
+    },
+    "24208994": {
+        "email": "gustavo.adriane@hotmail.com",
+        "nome": "Gustavo Adriane de Almeida Guimar\u00e3es e Silva",
+        "matricula": "24208994",
+        "cpf": "00733033210",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 20
+    },
+    "24200395": {
+        "email": "cmqadilino@gmail.com",
+        "nome": "Carolina Monteiro Quintanilha Adilino",
+        "matricula": "24200395",
+        "cpf": "11736701908",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 9
+    },
+    "24204765": {
+        "email": "henrique.sabanay@gmail.com",
+        "nome": "Henrique Sabanay",
+        "matricula": "24204765",
+        "cpf": "07893786981",
+        "palestras": [
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 2
+    },
+    "24204069": {
+        "email": "jpdarabas@gmail.com",
+        "nome": "Jo\u00e3o Pedro Darabas Cardoso",
+        "matricula": "24204069",
+        "cpf": "12655454995",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 4.5
+    },
+    "24200406": {
+        "email": "kretzer.enzo60@gmail.com",
+        "nome": "Enzo Raulino Kretzer",
+        "matricula": "24200406",
+        "cpf": "10369874935",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Cerim\u00f4nia de Abertura",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 21
+    },
+    "24202220": {
+        "email": "elisabelquisassumpcao@gmail.com",
+        "nome": "Elisa Belquis de Assump\u00e7\u00e3o",
+        "matricula": "24202220",
+        "cpf": "02366945027",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 13
+    },
+    "24200397": {
+        "email": "andreprcaceres@gmail.com",
+        "nome": "Andr\u00e9 Pietrovski Rol\u00f3n C\u00e1ceres ",
+        "matricula": "24200397",
+        "cpf": "10107556928",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Cerim\u00f4nia de Abertura",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 29.5
+    },
+    "24204498": {
+        "email": "eduardamorads@gmail.com",
+        "nome": "Eduarda Moraes dos Santos",
+        "matricula": "24204498",
+        "cpf": "13736179936",
+        "palestras": [
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 8.5
+    },
+    "24208689": {
+        "email": "joaovitorlimadearaujo@gmail.com ",
+        "nome": "Jo\u00e3o Victor Lima de Ara\u00fajo ",
+        "matricula": "24208689",
+        "cpf": "09865863901",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 24.5
+    },
+    "23250586": {
+        "email": "julia.gazolla@gmail.com",
+        "nome": "Julia Fischer Gazolla",
+        "matricula": "23250586",
+        "cpf": "00802818005",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 3
+    },
+    "24103616": {
+        "email": "arturtomaz1@gmail.com",
+        "nome": "Artur",
+        "matricula": "24103616",
+        "cpf": "08486237971",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 15
+    },
+    "24204068": {
+        "email": "migui.estivalet@gmail.com",
+        "nome": "Miguel Estivalet Pinto",
+        "matricula": "24204068",
+        "cpf": "03475928051",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 16
+    },
+    "24200380": {
+        "email": "raimunditiagoaugusto@gmail.com",
+        "nome": "Tiago Raimundi",
+        "matricula": "24200380",
+        "cpf": "10551320907",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 7
+    },
+    "24203054": {
+        "email": "dudatcostaa@gmail.com",
+        "nome": "Maria Eduarda Teixeira Costa",
+        "matricula": "24203054",
+        "cpf": "11962434923",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 8
+    },
+    "22100605": {
+        "email": "andreamaral04122@gmail.com",
+        "nome": "Andr\u00e9 Amaral Rocco",
+        "matricula": "22100605",
+        "cpf": "10273005960",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)"
+        ],
+        "horas": 10.5
+    },
+    "24103617": {
+        "email": "phtmsilva@gmail.com",
+        "nome": "Pedro Henrique Tesman Mansani da Silva ",
+        "matricula": "24103617",
+        "cpf": "12012673902",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)"
+        ],
+        "horas": 1
+    },
+    "22200371": {
+        "email": "matheus.bigolin@grad.ufsc.br",
+        "nome": "Matheus Fernandes Bigolin",
+        "matricula": "22200371",
+        "cpf": "11877614947",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 17
+    },
+    "24102644": {
+        "email": "daviperazzoli28@gmail.com",
+        "nome": "Davi Fernando Perazzoli",
+        "matricula": "24102644",
+        "cpf": "07856582979",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 16.5
+    },
+    "24103619": {
+        "email": "gabrielgm5032@gmail.com",
+        "nome": "Gabriel martins",
+        "matricula": "24103619",
+        "cpf": "10615057900",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 15.5
+    },
+    "22200352": {
+        "email": "caiofecardoso@hotmail.com",
+        "nome": "Caio Ferreira Cardoso",
+        "matricula": "22200352",
+        "cpf": "14549225912",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 15
+    },
+    "22104061": {
+        "email": "correamyllena048@gmail.com",
+        "nome": "Myllena Corr\u00eaa",
+        "matricula": "22104061",
+        "cpf": "14530537943",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 11
+    },
+    "24203050": {
+        "email": "pedrosilvachaves050321@gmail.com",
+        "nome": "Pedro Silva Chaves",
+        "matricula": "24203050",
+        "cpf": "86980807072",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 9
+    },
+    "17203357": {
+        "email": "marcelodutram@hotmail.com",
+        "nome": "Marcelo Dutra Mendon\u00e7a",
+        "matricula": "17203357",
+        "cpf": "11986559920",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)"
+        ],
+        "horas": 5
+    },
+    "24200599": {
+        "email": "vitor.camargo.ofc@gmail.com",
+        "nome": "Vitor Leite de Camargo",
+        "matricula": "24200599",
+        "cpf": "49220364824",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 17.5
+    },
+    "23205038": {
+        "email": "paes.andre33@gmail.com",
+        "nome": "Andr\u00e9 Pinheiro Paes ",
+        "matricula": "23205038",
+        "cpf": "50496753835",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 10.5
+    },
+    "24208666": {
+        "email": "jpebecker@gmail.com",
+        "nome": "Jo\u00e3o Pedro Becker Schneider",
+        "matricula": "24208666",
+        "cpf": "02310547000",
+        "palestras": [
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)"
+        ],
+        "horas": 10
+    },
+    "21203356": {
+        "email": "Anaflasch@gmail.com",
+        "nome": "Ana Fl\u00e1via Schwarz",
+        "matricula": "21203356",
+        "cpf": "04174026947",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 5.5
+    },
+    "23203706": {
+        "email": "jamesgl1996@gmail.com",
+        "nome": "James Garcia Lucas",
+        "matricula": "23203706",
+        "cpf": "05939377165",
+        "palestras": [
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)"
+        ],
+        "horas": 7
+    },
+    "24208346": {
+        "email": "zicacamargocecilia@gmail.com",
+        "nome": "Cec\u00edlia Zica Camargo",
+        "matricula": "24208346",
+        "cpf": "07575059962",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 8.5
+    },
+    "23104230": {
+        "email": "renanigordl04@gmail.com",
+        "nome": "Renan Igor de Lima Ferreira ",
+        "matricula": "23104230",
+        "cpf": "03748159170",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 18
+    },
+    "22100639": {
+        "email": "krwilliam03@gmail.com",
+        "nome": "William Kraus",
+        "matricula": "22100639",
+        "cpf": "12756856924",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 11
+    },
+    "24103661": {
+        "email": "gustavohcramos@gmail.com ",
+        "nome": "Gustavo Henrique Costa Ramos ",
+        "matricula": "24103661",
+        "cpf": "07998448962",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 4
+    },
+    "23250860": {
+        "email": "macedo.julia02@gmail.com",
+        "nome": "Julia Macedo de Castro",
+        "matricula": "23250860",
+        "cpf": "86201379053",
+        "palestras": [
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 9
+    },
+    "24203057": {
+        "email": "cabral.pedroaa@gmail.com",
+        "nome": "Pedro Artur de Aguiar Cabral ",
+        "matricula": "24203057",
+        "cpf": "12369637927",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)"
+        ],
+        "horas": 2
+    },
+    "23201137": {
+        "email": "thayseestevo@gmail.com",
+        "nome": "Thayse Estevo Teixeira ",
+        "matricula": "23201137",
+        "cpf": "59177659953",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 8
+    },
+    "21204000": {
+        "email": "luan.diniz.moraes@grad.ufsc.br",
+        "nome": "Luan Diniz  Moraes",
+        "matricula": "21204000",
+        "cpf": "10032618921",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 4
+    },
+    "20100546": {
+        "email": "mrsergiobonini@gmail.com",
+        "nome": "Sergio Bonini ",
+        "matricula": "20100546",
+        "cpf": "00708596126",
+        "palestras": [
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 2
+    },
+    "20100532": {
+        "email": "lucas.pini@hotmail.com",
+        "nome": "Lucas Coelho Pini de Sousa",
+        "matricula": "20100532",
+        "cpf": "12111164925",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "24103903": {
+        "email": "brunokreuch303@gmail.com",
+        "nome": "Bruno Kreuch Capistrano",
+        "matricula": "24103903",
+        "cpf": "10541450913",
+        "palestras": [
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)"
+        ],
+        "horas": 1
+    },
+    "19202276": {
+        "email": "jhmvaz95@gmail.com",
+        "nome": "Julien Hervot de Mattos Vaz",
+        "matricula": "19202276",
+        "cpf": "45617115898",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 9.5
+    },
+    "20100519": {
+        "email": "alchinicristian@gmail.com",
+        "nome": "Cristian Alexandre Alchini",
+        "matricula": "20100519",
+        "cpf": "09661695903",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 7
+    },
+    "20104138": {
+        "email": "andersonszambeli@gmail.com",
+        "nome": "Anderson Sales Zambeli",
+        "matricula": "20104138",
+        "cpf": "12066836605",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 3
+    },
+    "24202225": {
+        "email": "samuelbds31@gmail.com",
+        "nome": "Samuel Barreto da Silva",
+        "matricula": "24202225",
+        "cpf": "47613444821",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Cerim\u00f4nia de Abertura",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 8
+    },
+    "22102191": {
+        "email": "anareginadelazzari@gmail.com",
+        "nome": "Ana Regina Delazzari",
+        "matricula": "22102191",
+        "cpf": "09797421961",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 9
+    },
+    "19100543": {
+        "email": "rafitsbits1@gmail.com",
+        "nome": "Rafael Francisco R\u00e9us ",
+        "matricula": "19100543",
+        "cpf": "08385741909",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 28.0
+    },
+    "22100615": {
+        "email": "fabricio.duarte.jr@gmail.com",
+        "nome": "Fabricio Duarte J\u00fanior",
+        "matricula": "22100615",
+        "cpf": "11742228917",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 6
+    },
+    "20200415": {
+        "email": "marcoantonio.machadodearruda@gmail.com",
+        "nome": "Marco Ant\u00f4nio Machado de Arruda",
+        "matricula": "20200415",
+        "cpf": "08986333970",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)"
+        ],
+        "horas": 2
+    },
+    "22102193": {
+        "email": "exe.ufsc@gmail.com",
+        "nome": "Tiago Faustino de Siqueira ",
+        "matricula": "22102193",
+        "cpf": "13113795923",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 18.0
+    },
+    "24200595": {
+        "email": "drewsmatias2211@gmail.com",
+        "nome": "Matias Drews",
+        "matricula": "24200595",
+        "cpf": "03143977019",
+        "palestras": [
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 9.0
+    },
+    "24200617": {
+        "email": "eduardamontecino@gmail.com",
+        "nome": "Maria Eduarda Montecino Barato",
+        "matricula": "24200617",
+        "cpf": "12391303920",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)"
+        ],
+        "horas": 19.5
+    },
+    "22200354": {
+        "email": "davimenegazjunkes@hotmail.com",
+        "nome": "Davi Menegaz Junkes",
+        "matricula": "22200354",
+        "cpf": "09582779900",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "24205711": {
+        "email": "bruno.zrs@grad.ufsc.br",
+        "nome": "Bruno Zamora Rodrigues da Silva",
+        "matricula": "24205711",
+        "cpf": "85027928068",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "21101959": {
+        "email": "gabrielafdasilveira@gmail.com",
+        "nome": "Gabriela Furtado da Silveira",
+        "matricula": "21101959",
+        "cpf": "11162958901",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Minicurso de LaTeX (Gustavo)"
+        ],
+        "horas": 4
+    },
+    "23203335": {
+        "email": "lucas.pastredesouza@gmail.com",
+        "nome": "Lucas Pastre de Souza",
+        "matricula": "23203335",
+        "cpf": "07104372938",
+        "palestras": [
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 5
+    },
+    "24201685": {
+        "email": "abade503d@gmail.com",
+        "nome": "Thiago Abade",
+        "matricula": "24201685",
+        "cpf": "12233279905",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 6.0
+    },
+    "24205526": {
+        "email": "arthur@sirrus.com.br",
+        "nome": "Arthur Mallmann de Lima",
+        "matricula": "24205526",
+        "cpf": "05108094214",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)"
+        ],
+        "horas": 15
+    },
+    "23201960": {
+        "email": "mateusnishimura@gmail.com",
+        "nome": "Mateus Nishimura Fonseca",
+        "matricula": "23201960",
+        "cpf": "04480053018",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 6
+    },
+    "24104721": {
+        "email": "lucasmarisco27@gmail.com",
+        "nome": "Lucas de Oliveira Marisco",
+        "matricula": "24104721",
+        "cpf": "11220177407",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 8
+    },
+    "22200486": {
+        "email": "arthur.capa@hotmail.com",
+        "nome": "Arthur Machado Capaverde",
+        "matricula": "22200486",
+        "cpf": "09303511930",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 6
+    },
+    "20200402": {
+        "email": "gibram.g.f@gmail.com",
+        "nome": "Gibram Goulart Farias",
+        "matricula": "20200402",
+        "cpf": "05478664960",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "21203360": {
+        "email": "pereirah123@gmail.com",
+        "nome": "henrique pereira ramos",
+        "matricula": "21203360",
+        "cpf": "00872985970",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 5
+    },
+    "21203773": {
+        "email": "caioprsilva@gmail.com",
+        "nome": "Caio Pr\u00e1 Silva",
+        "matricula": "21203773",
+        "cpf": "10209862980",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 3
+    },
+    "23103123": {
+        "email": "eduardo.h.p.bocon@gmail.com",
+        "nome": "Eduardo Bo\u00e7on",
+        "matricula": "23103123",
+        "cpf": "13968703999",
+        "palestras": [
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 2.5
+    },
+    "23100475": {
+        "email": "augustoschweitzer2@gmail.com",
+        "nome": "Augusto Schweitzer ",
+        "matricula": "23100475",
+        "cpf": "10416663907",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 19.5
+    },
+    "24104205": {
+        "email": "diego.mmeditsch@gmail.com",
+        "nome": "Diego Martins Meditsch",
+        "matricula": "24104205",
+        "cpf": "08369928900",
+        "palestras": [
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)"
+        ],
+        "horas": 1
+    },
+    "24200407": {
+        "email": "lorenaqquintino@gmail.com",
+        "nome": "Lorena Quintino",
+        "matricula": "24200407",
+        "cpf": "75719797149",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "24105030": {
+        "email": "arthurfonsecaerpen@gmail.com",
+        "nome": "Arthur Erpen",
+        "matricula": "24105030",
+        "cpf": "03852383048",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 10
+    },
+    "24208894": {
+        "email": "ana.fogaca.clara@gmail.com",
+        "nome": "Ana Clara Figa\u00e7a",
+        "matricula": "24208894",
+        "cpf": "09974703999",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 20.0
+    },
+    "24105044": {
+        "email": "bruno.fogazzi.passuello@gmail.com",
+        "nome": "Bruno Passuello",
+        "matricula": "24105044",
+        "cpf": "86987011087",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "24203047": {
+        "email": "matiasig2004@gmail.com",
+        "nome": "Matias Isoppo G\u00fcntzel",
+        "matricula": "24203047",
+        "cpf": "09174881990",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)"
+        ],
+        "horas": 2
+    },
+    "21205014": {
+        "email": "aleccoelho50@gmail.com",
+        "nome": "Alec Oliveira Coelho ",
+        "matricula": "21205014",
+        "cpf": "07828561954",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 4
+    },
+    "24200388": {
+        "email": "jvcaresia@gmail.com",
+        "nome": "Jo\u00e3o Victor Wochnik Caresia ",
+        "matricula": "24200388",
+        "cpf": "06673441950",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 10.5
+    },
+    "24205457": {
+        "email": "joshuaamaral05@gmail.com",
+        "nome": "Joshua Cruz do Amaral",
+        "matricula": "24205457",
+        "cpf": "07426468909",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)"
+        ],
+        "horas": 4
+    },
+    "22100635": {
+        "email": "mateusgoulartufsc@gmail.com",
+        "nome": "Mateus Goulart Chedid",
+        "matricula": "22100635",
+        "cpf": "06063116966",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Cerim\u00f4nia de Abertura",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 7
+    },
+    "23102770": {
+        "email": "tomphunt0@gmail.com",
+        "nome": "Tom Pereira Hunt",
+        "matricula": "23102770",
+        "cpf": "04015805127",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 25
+    },
+    "21202119": {
+        "email": "livia.ferrao16@hotmail.com",
+        "nome": "L\u00edvia Corazza Ferr\u00e3o",
+        "matricula": "21202119",
+        "cpf": "02903575002",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 20
+    },
+    "22203157": {
+        "email": "ritalourob11@gmail.com",
+        "nome": "Rita Barbosa",
+        "matricula": "22203157",
+        "cpf": "70247629260",
+        "palestras": [
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 2
+    },
+    "24200376": {
+        "email": "leninicnh@gmail.com",
+        "nome": "Lenini Casemiro Nietzkar Heiler ",
+        "matricula": "24200376",
+        "cpf": "10607349905",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 8
+    },
+    "24100591": {
+        "email": "viniciuslucianocardoso@gmail.com",
+        "nome": "Vin\u00edcius Luciano Cardoso",
+        "matricula": "24100591",
+        "cpf": "11743495900",
+        "palestras": [
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 2
+    },
+    "23103135": {
+        "email": "yano.melo.cavalcante@gmail.com",
+        "nome": "Yano H. De Melo R. Cavalcante",
+        "matricula": "23103135",
+        "cpf": "03357484226",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 13
+    },
+    "20203635": {
+        "email": "mauriciokonrat@gmail.com",
+        "nome": "Mauricio Konrath",
+        "matricula": "20203635",
+        "cpf": "03274455059",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)"
+        ],
+        "horas": 2
+    },
+    "21204003": {
+        "email": "edu.perottoni@gmail.com",
+        "nome": "Eduardo Dani Perottoni",
+        "matricula": "21204003",
+        "cpf": "03651138089",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 6
+    },
+    "21200077": {
+        "email": "joaopedrth@gmail.com",
+        "nome": "Jo\u00e3o Pedro Theodoro ",
+        "matricula": "21200077",
+        "cpf": "51947805835",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 18.5
+    },
+    "23102448": {
+        "email": "eduardoachar1717@gmail.com",
+        "nome": "Eduardo Achar",
+        "matricula": "23102448",
+        "cpf": "08119151909",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 9
+    },
+    "23100472": {
+        "email": "henriquemateusteodoro@gmail.com",
+        "nome": "Henrique Mateus Teodoro",
+        "matricula": "23100472",
+        "cpf": "02902564023",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - Geocodifica\u00e7\u00e3o em Python: Uma an\u00e1lise para os n\u00fameros de casas desocupadas em Florian\u00f3polis (Ale)"
+        ],
+        "horas": 4
+    },
+    "20104139": {
+        "email": "santosjoao301@gmail.com",
+        "nome": "Jo\u00e3o Vitor dos Santos",
+        "matricula": "20104139",
+        "cpf": "11017093911",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 12
+    },
+    "22100638": {
+        "email": "robertovanneto@gmail.com",
+        "nome": "Roberto Vandresen Neto",
+        "matricula": "22100638",
+        "cpf": "12554763976",
+        "palestras": [
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 4
+    },
+    "2024200382": {
+        "email": "lucassherdt9@gmail.com",
+        "nome": "Lucas Semprebon Herdt",
+        "matricula": "2024200382",
+        "cpf": "10862103959",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "22203674": {
+        "email": "phtaglialenha@gmail.com",
+        "nome": "Pedro henrique Taglialenha",
+        "matricula": "22203674",
+        "cpf": "01388995174",
+        "palestras": [
+            "Palestra - Gera\u00e7\u00e3o aleat\u00f3ria de objetos combinat\u00f3rios para algoritmos criptogr\u00e1ficos (Gustavo Zambonin)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 13
+    },
+    "24200387": {
+        "email": "maria.medsm@gmail.com ",
+        "nome": "Maria Eduarda da Silva Maria ",
+        "matricula": "24200387",
+        "cpf": "14173321902",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Cerim\u00f4nia de Abertura",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 5
+    },
+    "20203701": {
+        "email": "gabrielavila01@gmail.com",
+        "nome": "Gabriel Avila",
+        "matricula": "20203701",
+        "cpf": "08824701914",
+        "palestras": [
+            "Palestra - PowerBI para profissionais de TI (Brian Henkels)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 6.5
+    },
+    "24205525": {
+        "email": "vinism96@hotmail.com",
+        "nome": "Vinicius da Silva Montibeller",
+        "matricula": "24205525",
+        "cpf": "06736161932",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 3.5
+    },
+    "22100915": {
+        "email": "marcosrff.2001@gmail.com",
+        "nome": "Marcos Roberto Fernandes Filho",
+        "matricula": "22100915",
+        "cpf": "12899121901",
+        "palestras": [
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)"
+        ],
+        "horas": 2.5
+    },
+    "24102642": {
+        "email": "cbperuzzo4@gmail.com",
+        "nome": "caetano peruzzo",
+        "matricula": "24102642",
+        "cpf": "11053463901",
+        "palestras": [
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 2.5
+    },
+    "19203165": {
+        "email": "juliogoncalvesramos@yahoo.com.br",
+        "nome": "Julio Gon\u00e7alves Ramos",
+        "matricula": "19203165",
+        "cpf": "12222507995",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "24100923": {
+        "email": "pedro.henrique.loren@gmail.com",
+        "nome": "Pedro Henrique Lorenzi Martins",
+        "matricula": "24100923",
+        "cpf": "08712238996",
+        "palestras": [
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 2
+    },
+    "22103511": {
+        "email": "clararosa2023@gmail.com",
+        "nome": "Clara Rosa Oliveira Gon\u00e7alves",
+        "matricula": "22103511",
+        "cpf": "19408521706",
+        "palestras": [
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 1
+    },
+    "22202622": {
+        "email": "Lucbsm@gmail.com",
+        "nome": "Lucas Brand Samuel Martins ",
+        "matricula": "22202622",
+        "cpf": "13165352909",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)"
+        ],
+        "horas": 1
+    },
+    "23205186": {
+        "email": "alexandreandregtoni@gmail.com",
+        "nome": "Alexandre Santos Andregtoni ",
+        "matricula": "23205186",
+        "cpf": "09141487966",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)"
+        ],
+        "horas": 1
+    },
+    "22100630": {
+        "email": "leosteffanileoleo@gmail.com",
+        "nome": "Leonardo Costa Steffani",
+        "matricula": "22100630",
+        "cpf": "10331776952",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)"
+        ],
+        "horas": 4
+    },
+    "19100038": {
+        "email": "thabatajohn@gmail.com",
+        "nome": "Thabata John Wiggers Barreto dos Santos",
+        "matricula": "19100038",
+        "cpf": "05516667909",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)"
+        ],
+        "horas": 5
+    },
+    "23201962": {
+        "email": "joaoalbanaes5@gmail.com",
+        "nome": "Jo\u00e3o Victor Albanaes ",
+        "matricula": "23201962",
+        "cpf": "08166321971",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 3
+    },
+    "21200895": {
+        "email": "xpspablo@hotmail.com",
+        "nome": "Pablo Lopes Teixeira",
+        "matricula": "21200895",
+        "cpf": "17714986760",
+        "palestras": [
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 3
+    },
+    "21250087": {
+        "email": "koglerhenrique@gmail.com",
+        "nome": "Marcos Henrique K\u00f6gler",
+        "matricula": "21250087",
+        "cpf": "11575570904",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 8
+    },
+    "24203049": {
+        "email": "joaobrunodossantos@gmail.com",
+        "nome": "Jo\u00e3o Bruno dos Santos",
+        "matricula": "24203049",
+        "cpf": "10298033909",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "24200379": {
+        "email": "joaolmkormnn@gmail.com",
+        "nome": "Jo\u00e3o Lucas Medina Kormann ",
+        "matricula": "24200379",
+        "cpf": "03867835195",
+        "palestras": [
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 8
+    },
+    "19100546": {
+        "email": "thiago.comelli2@gmail.com",
+        "nome": "Thiago Comelli",
+        "matricula": "19100546",
+        "cpf": "11916999948",
+        "palestras": [
+            "Hackathon Flutter (Cain\u00e3 Rinaldi Esteche e Renan Igor)",
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)"
+        ],
+        "horas": 10
+    },
+    "22102195": {
+        "email": "depaulaerik670@gmail.com",
+        "nome": "Erik Orsolin de Paula",
+        "matricula": "22102195",
+        "cpf": "04562988002",
+        "palestras": [
+            "Palestra - Passado, Presente e Futuro do Trabalho com Dados (P\u00e2mela Nunes)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Assinatura digital tolerante a modifica\u00e7\u00f5es (Anthony Kamers)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 11.5
+    },
+    "21104157": {
+        "email": "2003lmvp@gmail.com",
+        "nome": "Luiz Maur\u00edcio do Valle Pereira",
+        "matricula": "21104157",
+        "cpf": "07613365913",
+        "palestras": [
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)"
+        ],
+        "horas": 2
+    },
+    "22102557": {
+        "email": "bernardomg2004@gmail.com",
+        "nome": "Bernardo De Marco Gon\u00e7alves",
+        "matricula": "22102557",
+        "cpf": "09338159990",
+        "palestras": [
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 1.5
+    },
+    "21103573": {
+        "email": "lukepian@gmail.com",
+        "nome": "Lucas Pian Rodrigues",
+        "matricula": "21103573",
+        "cpf": "09678010950",
+        "palestras": [
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)"
+        ],
+        "horas": 1.5
+    },
+    "20203082": {
+        "email": "emilytti@me.com",
+        "nome": "Emily Sayuri Kiba",
+        "matricula": "20203082",
+        "cpf": "01357722907",
+        "palestras": [
+            "Maratona de Programa\u00e7\u00e3o"
+        ],
+        "horas": 5
+    },
+    "24206765": {
+        "email": "luizmachadoathayde@gmail.com ",
+        "nome": "luiz felipe machado athayde",
+        "matricula": "24206765",
+        "cpf": "13970494990",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)"
+        ],
+        "horas": 1
+    },
+    "24104282": {
+        "email": "yanmano@gmail.com",
+        "nome": "Yan Manica Oehling",
+        "matricula": "24104282",
+        "cpf": "15365849752",
+        "palestras": [
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)",
+            "Palestra - Genesis: Seguran\u00e7a na Cloud by Design usando Infrastructure as Code (Luciano Borguetti Faustino)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 5
+    },
+    "24201684": {
+        "email": "gabrielajesus755@gmail.com",
+        "nome": "Gabriela da Silva de Jesus",
+        "matricula": "24201684",
+        "cpf": "04760853065",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 3.5
+    },
+    "24207830": {
+        "email": "marciano.lopes@grad.ufsc.br",
+        "nome": "Marciano Lopes",
+        "matricula": "24207830",
+        "cpf": "04188970936",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)"
+        ],
+        "horas": 3.5
+    },
+    "21104148": {
+        "email": "nicolas.rtfs@gmail.com",
+        "nome": "N\u00edcolas Rone Tib\u00farcio Fernandes Santos",
+        "matricula": "21104148",
+        "cpf": "11423891970",
+        "palestras": [
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)",
+            "Palestra - ADES: Assinador Digital com Certificados de Uso \u00danico do LabSEC (Eduardo Perottoni)",
+            "Painel Seguran\u00e7a (Dra. Carla Merkle Westphall, Dra. Tha\u00eds Bardini Idalino e Dr. Jean E. Martina)",
+            "Palestra - Seguran\u00e7a ofensiva: Hackeie sistemas e seja pago por isso (Roberto Rodrigues Filho e Derick Andrighetti)"
+        ],
+        "horas": 5
+    },
+    "24205523": {
+        "email": "matheussilvano2005@gmail.com",
+        "nome": "Matheus Silvano Pereira",
+        "matricula": "24205523",
+        "cpf": "13972008988",
+        "palestras": [
+            "Palestra - Criptografia da Troca de Chaves: Cl\u00e1ssica \u00e0 P\u00f3s-Qu\u00e2ntica (Matheus de Oliveira Saldanha)",
+            "Palestra - FOSSHUB e o desafio de implantar ferramentas livres no mercado corporativo (Mario Araujo Xavier)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)",
+            "Minicurso de LaTeX (Gustavo)",
+            "Palestra - Tratamento de Dados JSON em Banco de Dados (Ronaldo dos Santos Mello)",
+            "Palestra - Projetos Pessoais: De Hobby a Carreira Internacional (Mateus Cechetto)"
+        ],
+        "horas": 9.0
+    },
+    "24104209": {
+        "email": "guimapelliufsc@gmail.com",
+        "nome": "Guilherme Soares Franco Mapelli",
+        "matricula": "24104209",
+        "cpf": "12680200608",
+        "palestras": [
+            "Palestra - Entre Bits e Clocks: Desvendando o Projetos de Circuitos Integrados (Rafael Oliveira)",
+            "Palestra - Como entender vulnerabilidades: Do compilador a ReDoS + Live Hacking (Samuel Cardoso)"
+        ],
+        "horas": 2
+    },
+    "24200382": {
+        "email": "lucassherdt9@gmail.com",
+        "nome": "Lucas Semprebon Herdt",
+        "matricula": "24200382",
+        "cpf": "10862103959",
+        "palestras": [
+            "Palestra - Desafios do gerenciamento de identidade digital pelo usu\u00e1rio: Do uso inadequado de senhas \u00e0 identidade digital descentralizada (Shirlei Chaves)",
+            "Palestra - Sigilo sob uma perspectiva prioritariamente computacional (Wellington Silvano)"
+        ],
+        "horas": 2
+    },
+    "21106156": {
+        "email": "arminetah@hotmail.com",
+        "nome": "Samantha Costa de Sousa",
+        "matricula": "21106156",
+        "cpf": "96953454253",
+        "palestras": [
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)",
+            "Hackathon Flutter - Premia\u00e7\u00e3o (Cain\u00e3 Rinaldi Esteche e Renan Igor)"
+        ],
+        "horas": 2
+    },
+    "22100900": {
+        "email": "gabrielwesz.mo@gmail.com",
+        "nome": "Gabriel Wesz Machado Oliveira",
+        "matricula": "22100900",
+        "cpf": "07396742935",
+        "palestras": [
+            "Palestra - Prote\u00e7\u00e3o de dados no processo de desenvolvimento (Miliane Fantonelli)",
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 2
+    },
+    "21204555": {
+        "email": "pedro.pa@grad.ufsc.br",
+        "nome": "Pedro Philippi Araujo",
+        "matricula": "21204555",
+        "cpf": "11859916970",
+        "palestras": [
+            "Trabalho Remoto em Empresas de Tecnologia (Ricardo Goes e Bruno Muniz)"
+        ],
+        "horas": 1
+    }
+}
