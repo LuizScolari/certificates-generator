@@ -1,7 +1,7 @@
 # Gerador de Certificados SECCOM - Organização
 
 ![logo seccom](assets/seccom2.png)
-Este repositório contém um programa em Python para gerar certificados de participação para eventos, como a SECCOM (Semana Acadêmica da Computação). O programa lê dados de arquivos CSV e gera um certificado no formato PNG.
+Este repositório contém um programa em Python para gerar certificados de participação para eventos, como a SECCOM (Semana Acadêmica da Computação). O programa lê dados de arquivos Json e gera um certificado no formato PNG.
 
 ## Pré-requisitos
 Para utilizar este programa, você precisa ter o Python instalado em sua máquina. Além disso, são necessárias algumas bibliotecas específicas, listadas no arquivo `requirements.txt`.
@@ -18,10 +18,9 @@ Para instalar as bibliotecas necessárias, execute o seguinte comando no termina
 ## Estrutura dos Arquivos
 `gerador_certificado.py`: Módulo principal que contém a lógica para a geração dos certificados.
 
-`main.py`: Script para processar os dados dos participantes e chamar o 
-gerador de certificados.
+`main.py`: Script para processar os dados dos organizadores e chamar o gerador de certificados.
 
-Arquivos `.csv`: Devem incluir os dados do formulário da organização, que irá gerar um arquivo `.json`.
+Arquivos `.json`: Devem incluir os dados do formulário da organização em formato json, como mostrado no `validos_exemplo.json`.
 
 No diretório `assets` há um exemplo de certificado para testes, substitua-o pelo template real do certificado.
 
@@ -29,7 +28,7 @@ No diretório `assets` há um exemplo de certificado para testes, substitua-o pe
 
 ## Uso
 1. Preparação dos dados:
-    * Garanta que todos os arquivos CSV necessários estejam no diretório do projeto. 
+    * Garanta que todos os arquivos necessários estejam no diretório do projeto e o arquivo `validos.json` esteja na formatação correta.
     * Certifique-se de que o template do certificado (certificado.png) esteja no diretório `assets`.
     
 2. Ajuste o código para suas necessidades:
