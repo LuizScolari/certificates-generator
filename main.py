@@ -11,5 +11,5 @@ with open('validos.json', 'r') as json_file:
 
 # Classe que gera e envia os certificados por email
 for participante in validos:
-    gerador_certificado.enviar_email_com_certificado(
-        validos[participante]['nome'], validos[participante]['cpf'], validos[participante]['horas'], validos[participante]['email'])
+    gerador_certificado.criar_certificado(
+        validos[participante]['nome'],validos[participante]['horas'], validos[participante]['cpf'])
