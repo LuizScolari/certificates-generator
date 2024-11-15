@@ -1,4 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont
+import os
 
 def formatar_cpf(cpf):
     cpf = ''.join(x for x in cpf if x.isdigit()).zfill(11)
@@ -39,6 +40,9 @@ def criar_certificado(nome, cpf, horas):
     draw.text((ponto_inicio_texto3, 790), texto3,
               font=fonte, fill=(0, 0, 0), align='center')
 
-    imagem_certificado = f'{nome}_Certificado.png'
+    # Define o caminho e nome do arquivo
+    caminho_diretorio = 'certificados_gerados'  # Diretório onde os certificados serão salvos
+    imagem_certificado = os.path.join(caminho_diretorio, f'{nome}_Certificado.png')
+
+    # Salva o certificado no local especificado
     imagem.save(imagem_certificado)
-    return imagem_certificado

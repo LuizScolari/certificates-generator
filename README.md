@@ -1,7 +1,7 @@
-# Gerador de Certificados SECCOM
+# Gerador de Certificados SECCOM - Organização
 
 ![logo seccom](assets/seccom2.png)
-Este repositório contém um programa em Python para gerar e enviar certificados de participação para eventos, como a SECCOM (Semana Acadêmica da Computação). O programa lê dados de arquivos CSV, gera um certificado no formato PNG e o envia por e-mail aos participantes.
+Este repositório contém um programa em Python para gerar certificados de participação para eventos, como a SECCOM (Semana Acadêmica da Computação). O programa lê dados de arquivos CSV e gera um certificado no formato PNG.
 
 ## Pré-requisitos
 Para utilizar este programa, você precisa ter o Python instalado em sua máquina. Além disso, são necessárias algumas bibliotecas específicas, listadas no arquivo `requirements.txt`.
@@ -16,14 +16,12 @@ Para instalar as bibliotecas necessárias, execute o seguinte comando no termina
 
 
 ## Estrutura dos Arquivos
-`gerador_certificado.py`: Módulo principal que contém a lógica para a geração e envio dos certificados.
+`gerador_certificado.py`: Módulo principal que contém a lógica para a geração dos certificados.
 
 `main.py`: Script para processar os dados dos participantes e chamar o 
 gerador de certificados.
 
-`config.py`: Contém configurações, como a senha do e-mail remetente (necessário ajustar com sua própria senha).
-
-Arquivos `.csv`: Devem incluir os dados dos formulários de inscrição e as listas de presença para cada dia do evento.
+Arquivos `.csv`: Devem incluir os dados do formulário da organização, que irá gerar um arquivo `.json`.
 
 No diretório `assets` há um exemplo de certificado para testes, substitua-o pelo template real do certificado.
 
@@ -31,18 +29,14 @@ No diretório `assets` há um exemplo de certificado para testes, substitua-o pe
 
 ## Uso
 1. Preparação dos dados:
-    * Garanta que todos os arquivos CSV necessários estejam no diretório do projeto. Isso inclui o arquivo de inscrição (info.csv) e os arquivos de presença para cada dia (segunda.csv, terca.csv, etc.).
+    * Garanta que todos os arquivos CSV necessários estejam no diretório do projeto. 
     * Certifique-se de que o template do certificado (certificado.png) esteja no diretório `assets`.
-
-2. Configuração do email:
-    * Edite o arquivo `config.py` para incluir a senha do seu e-mail (senha de aplicativo do Gmail) e o user.
     
-3. Ajuste o código para suas necessidades:
-   * No arquivo `main.py`, coloque as palestras/atividades específicas do evento
+2. Ajuste o código para suas necessidades:
    * No arquivo `gerador_certificado.py`, ajuste a altura dos textos conforme o template usado.
 
 5. Execução:
-    * Execute o script `main.py` para processar os dados e enviar os certificados:
+    * Execute o script `main.py` para processar os dados e gerar os certificados:
 
     ```sh
     python3 main.py
